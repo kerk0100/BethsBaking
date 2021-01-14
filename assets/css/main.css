@@ -145,12 +145,12 @@
 
 	a {
 		text-decoration: underline;
-		color: #6D7993;
+		color: #d5d5fd;
 	}
 
 		a:hover {
 			text-decoration: none;
-			color: #6D7993;
+			color: #96858F;
 		}
 
 	strong, b {
@@ -317,7 +317,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background: #9099A2;
-		color: #96858F;
+		color: #D5D5D5;
 		border-radius: 4px;
 		border: 0;
 		cursor: pointer;
@@ -345,7 +345,7 @@
 			input[type="button"].active:hover,
 			button.active:hover,
 			.button.active:hover {
-				color: #D5D5D5;
+				color: #96858F;
 				background: #9099A2;
 			}
 
@@ -354,7 +354,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			color: #D5D5D5;
+			color: #96858F;
 			background: #9099A2;
 		}
 
